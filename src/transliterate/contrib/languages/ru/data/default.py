@@ -24,5 +24,7 @@ pre_processor_mapping = {
     u"Sh": u"Ш",
     u"Sch": u"Щ",
     u"Ju": u"Ю",
-    u"Ja": u"Я"
+    u"Ja": u"Я",
+    u"x": u"кс",
+    u"X": u"Кс",
 }
